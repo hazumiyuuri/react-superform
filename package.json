@@ -1,0 +1,9 @@
+{
+  "name": "react-superform",
+  "version": "1.0.0-dev",
+  "description": "Handling form state values ​​using object structures.",
+  "main": "index.js",
+  "repository": "https://github.com/hazumiyuuri/react-superform.git",
+  "author": "Hazumi Yuuri",
+  "license": "MIT"
+}
